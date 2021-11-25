@@ -1,3 +1,21 @@
+* commit eb9bdf4d85c8a20a68b7f95b49f1a7f25ff0d432
+| Author: Andre Fernandes <andref.pro@gmail.com>
+| Date:   Thu Nov 25 10:56:20 2021 +0100
+| 
+|     fichier styleS
+| 
+* commit 271231bbe42129f865d0bdf3b8c77df70e75dce3
+| Author: Andre Fernandes <andref.pro@gmail.com>
+| Date:   Thu Nov 25 10:30:44 2021 +0100
+| 
+|     Ajout d'un s à style.css et changement du link dans index.html
+| 
+* commit c7d56a8a7b30969c4cf28c7018514ec0f6bf0db2
+| Author: Andre Fernandes <andref.pro@gmail.com>
+| Date:   Thu Nov 25 10:25:12 2021 +0100
+| 
+|     ajout fichier log
+| 
 * commit 75b65fadbdb318b576ddb0e4b39836754c723636
 | Author: Andre Fernandes <andref.pro@gmail.com>
 | Date:   Thu Nov 25 09:54:09 2021 +0100
