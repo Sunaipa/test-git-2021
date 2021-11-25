@@ -1,0 +1,11 @@
+* commit 75b65fadbdb318b576ddb0e4b39836754c723636
+| Author: Andre Fernandes <andref.pro@gmail.com>
+| Date:   Thu Nov 25 09:54:09 2021 +0100
+| 
+|     Ajout style css background pour le body
+| 
+* commit 800119309515431871c76486d748411474fa06b9
+  Author: Andre Fernandes <andref.pro@gmail.com>
+  Date:   Thu Nov 25 09:49:41 2021 +0100
+  
+      Création de la page d'accueil
